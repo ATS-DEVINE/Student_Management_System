@@ -58,12 +58,12 @@ web/
 
 - ✓ Dashboard
 - ✓ Students Management
-- ⏳ Teachers Management (Coming Soon)
-- ⏳ Courses Management (Coming Soon)
-- ⏳ Subjects Management (Coming Soon)
-- ⏳ Attendance Management (Coming Soon)
-- ⏳ Marks Management (Coming Soon)
-- ⏳ Reports (Coming Soon)
+- ✓ Teachers Management
+- ✓ Courses Management 
+- ✓ Subjects Management 
+- ✓ Attendance Management
+- ✓ Marks Management 
+- ✓ Reports
 
 ## Stopping the Server
 
